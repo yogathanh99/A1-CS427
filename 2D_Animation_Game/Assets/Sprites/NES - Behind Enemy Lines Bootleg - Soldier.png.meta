@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 769695e8db02c4d0495160080fab457f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2547307540692504157
+    second: NES - Behind Enemy Lines Bootleg - Soldier_0
+  - first:
+      213: -4792171782725828030
+    second: NES - Behind Enemy Lines Bootleg - Soldier_1
+  - first:
+      213: 511207898233815367
+    second: NES - Behind Enemy Lines Bootleg - Soldier_2
+  - first:
+      213: 3185506332737489562
+    second: NES - Behind Enemy Lines Bootleg - Soldier_3
+  - first:
+      213: 8151713073373293398
+    second: NES - Behind Enemy Lines Bootleg - Soldier_4
+  - first:
+      213: 1164680329957068536
+    second: NES - Behind Enemy Lines Bootleg - Soldier_5
+  - first:
+      213: 8918567537909513441
+    second: NES - Behind Enemy Lines Bootleg - Soldier_6
+  - first:
+      213: -6041080159095615342
+    second: NES - Behind Enemy Lines Bootleg - Soldier_7
+  - first:
+      213: 8295348494293553233
+    second: NES - Behind Enemy Lines Bootleg - Soldier_8
+  - first:
+      213: 4610688441984040642
+    second: NES - Behind Enemy Lines Bootleg - Soldier_9
+  - first:
+      213: 112699144268321466
+    second: NES - Behind Enemy Lines Bootleg - Soldier_10
+  - first:
+      213: -46317580711666290
+    second: NES - Behind Enemy Lines Bootleg - Soldier_11
+  - first:
+      213: 7210723978516067837
+    second: NES - Behind Enemy Lines Bootleg - Soldier_12
+  - first:
+      213: -612003643409375217
+    second: NES - Behind Enemy Lines Bootleg - Soldier_13
+  - first:
+      213: 3387203753404376476
+    second: NES - Behind Enemy Lines Bootleg - Soldier_14
+  - first:
+      213: -8483235136210902142
+    second: NES - Behind Enemy Lines Bootleg - Soldier_15
+  - first:
+      213: -1803383139043352664
+    second: NES - Behind Enemy Lines Bootleg - Soldier_16
+  - first:
+      213: -87045922934707187
+    second: NES - Behind Enemy Lines Bootleg - Soldier_17
+  - first:
+      213: 3359815717106571309
+    second: NES - Behind Enemy Lines Bootleg - Soldier_18
+  - first:
+      213: 4507737436184600531
+    second: NES - Behind Enemy Lines Bootleg - Soldier_19
+  - first:
+      213: 7071051681931235666
+    second: NES - Behind Enemy Lines Bootleg - Soldier_20
+  - first:
+      213: -6322379496117259314
+    second: NES - Behind Enemy Lines Bootleg - Soldier_21
+  - first:
+      213: 5108418027468988101
+    second: NES - Behind Enemy Lines Bootleg - Soldier_22
+  - first:
+      213: 8527743973460582555
+    second: NES - Behind Enemy Lines Bootleg - Soldier_23
+  - first:
+      213: -6505004863356889761
+    second: NES - Behind Enemy Lines Bootleg - Soldier_24
+  - first:
+      213: -6473300047108464593
+    second: NES - Behind Enemy Lines Bootleg - Soldier_25
+  - first:
+      213: 4132565191029504219
+    second: NES - Behind Enemy Lines Bootleg - Soldier_26
+  - first:
+      213: 2131058253036732766
+    second: NES - Behind Enemy Lines Bootleg - Soldier_27
+  - first:
+      213: 4849748162233799205
+    second: NES - Behind Enemy Lines Bootleg - Soldier_28
+  - first:
+      213: -2025481191043535128
+    second: NES - Behind Enemy Lines Bootleg - Soldier_29
+  - first:
+      213: -221418969741770735
+    second: NES - Behind Enemy Lines Bootleg - Soldier_30
+  - first:
+      213: -8972365712524612915
+    second: NES - Behind Enemy Lines Bootleg - Soldier_31
+  - first:
+      213: -545823759818961190
+    second: NES - Behind Enemy Lines Bootleg - Soldier_32
+  - first:
+      213: -1387644921025346201
+    second: NES - Behind Enemy Lines Bootleg - Soldier_33
+  - first:
+      213: 5407818947392729946
+    second: NES - Behind Enemy Lines Bootleg - Soldier_34
+  - first:
+      213: -4070018490841897304
+    second: NES - Behind Enemy Lines Bootleg - Soldier_35
+  - first:
+      213: -1223641687619203068
+    second: NES - Behind Enemy Lines Bootleg - Soldier_36
+  - first:
+      213: -3182570937051989280
+    second: NES - Behind Enemy Lines Bootleg - Soldier_37
+  - first:
+      213: 837176609066251647
+    second: NES - Behind Enemy Lines Bootleg - Soldier_38
+  - first:
+      213: 2998759284044791522
+    second: NES - Behind Enemy Lines Bootleg - Soldier_39
+  - first:
+      213: -1356122808598122181
+    second: NES - Behind Enemy Lines Bootleg - Soldier_40
+  - first:
+      213: -8390835555560705615
+    second: NES - Behind Enemy Lines Bootleg - Soldier_41
+  - first:
+      213: 8428876115895270466
+    second: NES - Behind Enemy Lines Bootleg - Soldier_42
+  - first:
+      213: 458804137227806606
+    second: NES - Behind Enemy Lines Bootleg - Soldier_43
+  - first:
+      213: -3170537192339987249
+    second: NES - Behind Enemy Lines Bootleg - Soldier_44
+  - first:
+      213: 4889021170940422025
+    second: NES - Behind Enemy Lines Bootleg - Soldier_45
+  - first:
+      213: -3982264035786266158
+    second: NES - Behind Enemy Lines Bootleg - Soldier_46
+  - first:
+      213: -9195854573273635379
+    second: NES - Behind Enemy Lines Bootleg - Soldier_47
+  - first:
+      213: 46310853208850066
+    second: NES - Behind Enemy Lines Bootleg - Soldier_48
+  - first:
+      213: 715791317295903399
+    second: NES - Behind Enemy Lines Bootleg - Soldier_49
+  - first:
+      213: -768911609760511880
+    second: NES - Behind Enemy Lines Bootleg - Soldier_50
+  - first:
+      213: -2328906473673878233
+    second: NES - Behind Enemy Lines Bootleg - Soldier_51
+  - first:
+      213: -7870738965862273776
+    second: NES - Behind Enemy Lines Bootleg - Soldier_52
+  - first:
+      213: -4145959279911770836
+    second: NES - Behind Enemy Lines Bootleg - Soldier_53
+  - first:
+      213: 8577784276166160817
+    second: NES - Behind Enemy Lines Bootleg - Soldier_54
+  - first:
+      213: 7678107452221744810
+    second: NES - Behind Enemy Lines Bootleg - Soldier_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 279
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e86a846bad95320800000000000000
+      internalID: 2547307540692504157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 279
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420af35729ce7db0800000000000000
+      internalID: -4792171782725828030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 279
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c99cffdc281700800000000000000
+      internalID: 511207898233815367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 243
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4390d121353c20800000000000000
+      internalID: 3185506332737489562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ba251c9d3b02170800000000000000
+      internalID: 8151713073373293398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 243
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec9ffd696c92010800000000000000
+      internalID: 1164680329957068536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 243
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3d625ced15cb70800000000000000
+      internalID: 8918567537909513441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 243
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29012713a95c92ca0800000000000000
+      internalID: -6041080159095615342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 243
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505072418ffe1370800000000000000
+      internalID: 8295348494293553233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 197
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3572a5b47cff30800000000000000
+      internalID: 4610688441984040642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 197
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29a9c4643609100800000000000000
+      internalID: 112699144268321466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 197
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d53ded7627b5ff0800000000000000
+      internalID: -46317580711666290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df577d02143a11460800000000000000
+      internalID: 7210723978516067837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e659cde9b187f0800000000000000
+      internalID: -612003643409375217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 161
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a9871ed3c10f20800000000000000
+      internalID: 3387203753404376476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2836908f69e754a80800000000000000
+      internalID: -8483235136210902142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af546bf69819f6e0800000000000000
+      internalID: -1803383139043352664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 161
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca45cb130cacef0800000000000000
+      internalID: -87045922934707187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 161
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2859e8f79670ae20800000000000000
+      internalID: 3359815717106571309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5380b053be8e30800000000000000
+      internalID: 4507737436184600531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 141
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25190f96a0c612260800000000000000
+      internalID: 7071051681931235666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b7be78556248a0800000000000000
+      internalID: -6322379496117259314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9d73612fb4e640800000000000000
+      internalID: 5108418027468988101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a89146f1a85670800000000000000
+      internalID: 8527743973460582555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 117
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559c61ba8499b5a0800000000000000
+      internalID: -6505004863356889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a49777e73a26a0800000000000000
+      internalID: -6473300047108464593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 117
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8357e5522d95930800000000000000
+      internalID: 4132565191029504219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 117
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e514be7b03a039d10800000000000000
+      internalID: 2131058253036732766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 117
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229c0c2244cd4340800000000000000
+      internalID: 4849748162233799205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6d94969b04e3e0800000000000000
+      internalID: -2025481191043535128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104202ce9c5decf0800000000000000
+      internalID: -221418969741770735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca631e0ce0cb7380800000000000000
+      internalID: -8972365712524612915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adec50eae28dc68f0800000000000000
+      internalID: -545823759818961190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c8efdb481ebce0800000000000000
+      internalID: -1387644921025346201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 86
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5378f84eae6c0b40800000000000000
+      internalID: 5407818947392729946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e8181fb36487c0800000000000000
+      internalID: -4070018490841897304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 86
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40019154e50c40fe0800000000000000
+      internalID: -1223641687619203068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 86
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eab880489c35d3d0800000000000000
+      internalID: -3182570937051989280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f8adb0bf3e9b00800000000000000
+      internalID: 837176609066251647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 57
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef4644eabbd9920800000000000000
+      internalID: 2998759284044791522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3134b99d751e2de0800000000000000
+      internalID: -1356122808598122181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1361ec483cd8b80800000000000000
+      internalID: -8390835555560705615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c36b75b2269f470800000000000000
+      internalID: 8428876115895270466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 57
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8761f49eeffd5600800000000000000
+      internalID: 458804137227806606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42967c83dfff3d0800000000000000
+      internalID: -3170537192339987249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a4411ada49d340800000000000000
+      internalID: 4889021170940422025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9652955f72cb8c0800000000000000
+      internalID: -3982264035786266158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 26
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5afd1ccf2c16080800000000000000
+      internalID: -9195854573273635379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e32c2c97784a000800000000000000
+      internalID: 46310853208850066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23bb029600fe900800000000000000
+      internalID: 715791317295903399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 26
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780d8cf6f64455f0800000000000000
+      internalID: -768911609760511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259f89b6ef0eafd0800000000000000
+      internalID: -2328906473673878233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 28
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d24fb8c9485c290800000000000000
+      internalID: -7870738965862273776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ef9b40089676c0800000000000000
+      internalID: -4145959279911770836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b0d42a596a0770800000000000000
+      internalID: 8577784276166160817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Behind Enemy Lines Bootleg - Soldier_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e4f42c0e1e8a60800000000000000
+      internalID: 7678107452221744810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

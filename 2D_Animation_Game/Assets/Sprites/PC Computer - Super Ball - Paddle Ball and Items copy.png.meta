@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: fbc5246310db24a988b0c3077d940749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7090757923414953881
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_0
+  - first:
+      213: 482591625796008102
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_1
+  - first:
+      213: 6980457716971612624
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_2
+  - first:
+      213: 9155112692202383612
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_3
+  - first:
+      213: -4870856910653151545
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_4
+  - first:
+      213: -8163102496086454345
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_5
+  - first:
+      213: 8894269150686479749
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_6
+  - first:
+      213: 5440178486115291041
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_7
+  - first:
+      213: 1672447142377125360
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_8
+  - first:
+      213: 6952428625188067827
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_9
+  - first:
+      213: 6681839905121228077
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_10
+  - first:
+      213: -849779222769340196
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_11
+  - first:
+      213: 6460231992471678266
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_12
+  - first:
+      213: 6911850735073824116
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_13
+  - first:
+      213: -8074603571811942588
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_14
+  - first:
+      213: -7929058162897218806
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_15
+  - first:
+      213: -1229476982166493250
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_16
+  - first:
+      213: 5003976211065234983
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_17
+  - first:
+      213: 8915931991516332554
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_18
+  - first:
+      213: -1505349414878647254
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_19
+  - first:
+      213: 5369189919392224848
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_20
+  - first:
+      213: 1167451934876666177
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_21
+  - first:
+      213: 1943432383886692785
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_22
+  - first:
+      213: 5717287201704976638
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_23
+  - first:
+      213: 4681267484559434721
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_24
+  - first:
+      213: 3648631783717869490
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_25
+  - first:
+      213: 1323213043972320160
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_26
+  - first:
+      213: 3371900539833442851
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_27
+  - first:
+      213: 6366391449840516985
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_28
+  - first:
+      213: 4850266474854012975
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_29
+  - first:
+      213: -8949789350488436444
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_30
+  - first:
+      213: 7114165562467169862
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_31
+  - first:
+      213: -949990180793935058
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_32
+  - first:
+      213: -2300413609960583792
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_33
+  - first:
+      213: 4720552075247866543
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_34
+  - first:
+      213: 1471052563526815329
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_35
+  - first:
+      213: 8724831145649099697
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_36
+  - first:
+      213: 4900712684521361387
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_37
+  - first:
+      213: 5891653007663761169
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_38
+  - first:
+      213: -6609142096569604665
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_39
+  - first:
+      213: 6902160414044166692
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_40
+  - first:
+      213: 8100307072602787268
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_41
+  - first:
+      213: 5013012666731312601
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_42
+  - first:
+      213: -7534351401604481906
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_43
+  - first:
+      213: 1876860813714047336
+    second: PC Computer - Super Ball - Paddle Ball and Items copy_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4f6d43ce676260800000000000000
+      internalID: 7090757923414953881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8362bd68282b600800000000000000
+      internalID: 482591625796008102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 119
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d92abd3f419fd060800000000000000
+      internalID: 6980457716971612624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8a469dc7e7d0f70800000000000000
+      internalID: 9155112692202383612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c623c8527d376cb0800000000000000
+      internalID: -4870856910653151545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 95
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf89af9785d6be80800000000000000
+      internalID: -8163102496086454345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585026f2baace6b70800000000000000
+      internalID: 8894269150686479749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afcf9382856f7b40800000000000000
+      internalID: 5440178486115291041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57103a0d9b53710800000000000000
+      internalID: 1672447142377125360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99792cffcfb7060800000000000000
+      internalID: 6952428625188067827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d7c6edf9aabc50800000000000000
+      internalID: 6681839905121228077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd073599c4af434f0800000000000000
+      internalID: -849779222769340196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d63e5f4ca57a950800000000000000
+      internalID: 6460231992471678266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 68
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d099c7f93dbef50800000000000000
+      internalID: 6911850735073824116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7c0025de31ff80800000000000000
+      internalID: -8074603571811942588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03991d5c9356f190800000000000000
+      internalID: -7929058162897218806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb76272e23500fee0800000000000000
+      internalID: -1229476982166493250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266c0d0ad1b17540800000000000000
+      internalID: 5003976211065234983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024fdb58e0cbbb70800000000000000
+      internalID: 8915931991516332554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce05fceaceb1be0800000000000000
+      internalID: -1505349414878647254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 57
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0565bf4d8c1338a40800000000000000
+      internalID: 5369189919392224848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1498aae695f933010800000000000000
+      internalID: 1167451934876666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19e86d47578fa10800000000000000
+      internalID: 1943432383886692785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef023802b62e75f40800000000000000
+      internalID: 5717287201704976638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e360cb89f337f040800000000000000
+      internalID: 4681267484559434721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b714b8a64b82a230800000000000000
+      internalID: 3648631783717869490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2228b04ffc5210800000000000000
+      internalID: 1323213043972320160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32268b60da56bce20800000000000000
+      internalID: 3371900539833442851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff3d40b47f95850800000000000000
+      internalID: 6366391449840516985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d8ab39ab9f4340800000000000000
+      internalID: 4850266474854012975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211095f006fbc380800000000000000
+      internalID: -8949789350488436444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 22
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463c28f2e79ab260800000000000000
+      internalID: 7114165562467169862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 22
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1badb6f4f0d2f0800000000000000
+      internalID: -949990180793935058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d43d5820a4310e0800000000000000
+      internalID: -2300413609960583792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2d1e41a15c28140800000000000000
+      internalID: 4720552075247866543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e81f6338a3a6410800000000000000
+      internalID: 1471052563526815329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3dda963b3d41970800000000000000
+      internalID: 8724831145649099697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef8523b834d20440800000000000000
+      internalID: 4900712684521361387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11709a5f13b53c150800000000000000
+      internalID: 5891653007663761169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c563e7a74c9744a0800000000000000
+      internalID: -6609142096569604665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9dddc35669cf50800000000000000
+      internalID: 6902160414044166692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc2128d521a6070800000000000000
+      internalID: 8100307072602787268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5bd07d57cc19540800000000000000
+      internalID: 5013012666731312601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf566a15b907790800000000000000
+      internalID: -7534351401604481906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Super Ball - Paddle Ball and Items copy_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 94
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861c64e47f2fb0a10800000000000000
+      internalID: 1876860813714047336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
